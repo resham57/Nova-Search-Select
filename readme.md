@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/resham57/Nova-Search-Select" target="_blank"><img src="https://raw.githubusercontent.com/resham57/Nova-Search-Select/show.png" width="400" alt="Info"></a></p>
+<p align="center"><a href="https://github.com/resham57/Nova-Search-Select" target="_blank"><img src="https://raw.githubusercontent.com/resham57/Nova-Search-Select/main/guide.gif" width="400" alt="Info"></a></p>
 
 ### First Time Installation
 First run this command before the nova build
