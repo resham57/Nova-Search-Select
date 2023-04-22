@@ -33,3 +33,6 @@ rm -rf node_modules
 cd -
 php artisan nova:publish
 ```
+
+### Security
+If you discover any issues, please email at [reshampokhrel57@gmail.com](mailto:reshampokhrel57@gmail.com).
