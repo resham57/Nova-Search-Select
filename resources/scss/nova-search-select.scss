@@ -1,0 +1,31 @@
+.nova-select-search {
+	min-height: 20px;
+
+	.form-check {
+		position: relative;
+	    display: block;
+	    padding-left: 1.25rem;
+
+		.form-check-input {
+			position: absolute;
+		    margin-top: 0.16rem;
+		    margin-left: -1.25rem;
+		}
+
+		.form-check-label {
+			margin-bottom: 0;
+		}
+	}
+
+	.checkbox {
+		background-color: #f1f5f9;
+
+		&:checked {
+			background-color: currentColor;
+		}
+	}
+
+	.search-id {
+		text-transform: uppercase;
+	}
+}

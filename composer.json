@@ -1,0 +1,38 @@
+{
+    "name": "resham/nova-search-select",
+    "description": "A Package for Laravel Nova Search Select.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "search",
+        "select"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Resham Pokhrel",
+            "email": "reshampokhrel57@gmail.com",
+            "homepage": "https://reshampokhrel.com.np"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Resham\\NovaSearchSelect\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Resham\\NovaSearchSelect\\ServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
