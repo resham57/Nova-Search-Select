@@ -5,7 +5,7 @@
 <a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/l/resham/nova-search-select.svg?style=flat" alt="License"></a>
 </p>
 
-## Requirement
+### Requirement
 This is a package to integrate a selectable search with Laravel Nova version 4.
 - [PHP >= 7.3](http://php.net/)
 - [Laravel Framework](https://github.com/laravel/framework)
