@@ -1,4 +1,21 @@
+## Selectable Search for Laravel Nova 4
 <p align="center"><a href="https://github.com/resham57/Nova-Search-Select" target="_blank"><img src="https://raw.githubusercontent.com/resham57/Nova-Search-Select/main/guide.gif" alt="Info"></a></p>
+<p align="center">
+<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/v/resham/nova-search-select.svg?style=flat" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/l/resham/nova-search-select.svg?style=flat" alt="License"></a>
+</p>
+
+## Requirement
+This is a package to integrate a selectable search with Laravel Nova version 4.
+- [PHP >= 7.3](http://php.net/)
+- [Laravel Framework](https://github.com/laravel/framework)
+- [Laravel Nova v4](https://nova.laravel.com/)
+
+### Installation
+Require this package with composer.
+```shell
+composer require resham/nova-search-select
+```
 
 ### First Time Installation
 First run this command before the nova build
