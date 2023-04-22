@@ -1,8 +1,8 @@
 ## Selectable Search for Laravel Nova 4
 <p align="center"><a href="https://github.com/resham57/Nova-Search-Select" target="_blank"><img src="https://raw.githubusercontent.com/resham57/Nova-Search-Select/main/guide.gif" alt="Info"></a></p>
 <p align="center">
-<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/v/resham/nova-search-select.svg?style=flat" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/l/resham/nova-search-select.svg?style=flat" alt="License"></a>
+<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/v/resham/nova-search-select.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/resham/nova-search-select"><img src="https://img.shields.io/packagist/l/resham/nova-search-select.svg" alt="License"></a>
 </p>
 
 ### Requirement
